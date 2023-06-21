@@ -1,0 +1,115 @@
+﻿^contentpage{
+    background-color: black;
+}
+.PageBackgroundColor {
+
+    background-color: black;
+}
+
+#header {
+    font-size:32;
+    font-weight:bolder;
+    color:black;
+}
+
+
+Button{background-color:brown;color:white;}
+
+label{
+    color:white;
+}
+.LabelTextColor {
+    color: black;
+}
+
+.EnrtyStyle{
+    font-size:16;
+    background-color:white;
+}
+#styleMe {
+    font-size: 24;
+    background-color: white;
+    color:black;
+}
+#styleMe2{
+    font-size: 18;
+    background-color: black;
+    color: white;
+}
+
+Picker {
+    background-color: #459F45;
+}
+
+    Picker item {
+        background-color: white;
+    }
+
+#stylebut {
+    font-size: 16;
+    background-color: #459F45;
+    color: white;
+    border-radius: 25;
+}
+
+#stylebut2 {
+    font-size: 16;
+    background-color: #EFEFEF;
+    color: black;
+    border-radius: 25;
+}
+
+#stylebut3 {
+    font-size: 16;
+    background-color: white;
+    color: black;
+    border-radius: 25;
+    border-width: 1;
+    border-color: black;
+}
+
+#stylebut4 {
+    font-size: 16;
+    background-color: #378237;
+    color: white;
+    border-radius: 25;
+}
+
+#stylebut5 {
+    font-size: 16;
+    background-color: #EFEFEF;
+    color: black;
+    border-radius: 25;
+}
+
+#stylebut6 {
+    font-size: 16;
+    background-color: white;
+    color: black;
+    border-radius: 25;
+    border-width: 1;
+    border-color: black;
+}
+
+#stylebut7 {
+    font-size: 16;
+    background-color: #2E6C29;
+    color: white;
+    border-radius: 25;
+}
+
+#stylebut8 {
+    font-size: 16;
+    background-color: #E0E0E0;
+    color: black;
+    border-radius: 25;
+}
+
+#stylebut9 {
+    font-size: 16;
+    background-color: #EEEEEE;
+    color: black;
+    border-radius: 25;
+    border-width: 1;
+    border-color: black;
+}
